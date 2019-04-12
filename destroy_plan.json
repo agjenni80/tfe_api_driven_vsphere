@@ -1,0 +1,17 @@
+{
+  "data": {
+    "attributes":{
+      "is-destroy":true, 
+      "message": "Destroy Plan"
+},
+  "type": "runs", 
+     "relationships":{
+     "workspace": {
+        "data": {
+	"type": "Workspaces",
+	"id": "ws-BkcyUY6MpawB5REG"
+     }
+   }
+  }
+ }
+}
